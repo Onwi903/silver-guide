@@ -1,0 +1,38 @@
+nav{
+    background-color: black;
+    height: 100px;
+    width: 100%;
+    padding: 0;
+    margin:10px;
+    align-items: center;
+    justify-content: space-between;
+    display: flex;
+
+    
+}
+ li a{
+    display: inline-block;
+    color: white;
+    padding: 5px;
+    margin-right:10px;
+    
+
+ }
+ .fg{
+    background-color: white;
+    margin: 10px;
+    width: 150px;
+    margin-top: 15px;
+    margin-left: 30px;
+ }
+a{
+    text-decoration: none;
+}
+*{
+    margin: 0%;
+    padding: 0%;
+}
+li a:hover{
+        color: green;
+    }
+    
